@@ -10,10 +10,13 @@
   - [ ] Products / Shop
 - [ ] Additional pages
   - [ ] Product information
+    - [ ] Overlay function
+    - [ ] Video popup (carousel?)
   - [ ] Cart
   - [ ] Checkout
   - [ ] Payment confirmation
   - [ ] Contact
+- [ ] Basic footer (copyright + logo)
 
 ### Interaction
 
@@ -46,6 +49,13 @@
 
 - [ ] Front page sections
   - [ ] Our Friends
-
+- [ ] Additional pages
+  - [ ] Press
+  - [ ] FAQ
+  - [ ] Video Testimonials
+  - [ ] Retailers
+  - [ ] Privacy Policy
+  - [ ] Return Policy
+- Subscribe (to what?)
 
 
