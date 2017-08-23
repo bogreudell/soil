@@ -5,15 +5,15 @@
 ### Structure
 
 - [ ] Front page sections
- - [ ] Splash
- - [ ] Mission
- - [ ] Products / Shop
+  - [ ] Splash
+  - [ ] Mission
+  - [ ] Products / Shop
 - [ ] Additional pages
- - [ ] Product information
- - [ ] Cart
- - [ ] Checkout
- - [ ] Payment confirmation
- - [ ] Contact
+  - [ ] Product information
+  - [ ] Cart
+  - [ ] Checkout
+  - [ ] Payment confirmation
+  - [ ] Contact
 
 ### Interaction
 
@@ -31,7 +31,7 @@
 ### Structure
 
 - [ ] Front page sections
- - [ ] Our Story
+  - [ ] Our Story
 
 ### Interactions
 
@@ -40,9 +40,12 @@
 ## V3
 
 - [ ] Front page sections
- - [ ] Stockists
+  - [ ] Stockists
 
 ## V4
 
 - [ ] Front page sections
- - [ ] Our Friends
+  - [ ] Our Friends
+
+
+
